@@ -1,8 +1,8 @@
 # EX 4 : ELLIPSE DRAWING ALGORITHM
 
-NAME : MOHAMED NIZAMUDDIN A
 
-REG NO: 212224040194
+## register no : 212224040157
+## name        : kelvin k
 
 **AIM :**
 
@@ -116,7 +116,8 @@ int plotpoints(int xcenter,int ycenter,int x,int y)
 
 **Output :**
 
-![ellipsegamedevlopment](https://github.com/user-attachments/assets/51b06629-23d3-4109-91e3-f236dba53d95)
+![image](https://github.com/user-attachments/assets/01fb1bf7-ab98-4c26-abbd-f2d597eaebe9)
+
 
 
 **Result :**
